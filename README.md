@@ -1,4 +1,4 @@
-\# 🌟 Işığın Yolu – Unity Gamification Project
+Işığın Yolu – Unity Gamification Project
 
  Unity-based educational game designed to teach **5th-grade students** the learning objectives of *light propagation* through gamified mechanics.  
 The project aims to help children understand how light spreads, reflects, and interacts with objects in an engaging, interactive way.
@@ -6,11 +6,11 @@ The project aims to help children understand how light spreads, reflects, and in
 Developed using **C#** in Unity, this project combines educational content with game design principles to enhance learning motivation and retention.
 
 
----
 
 
 
-\## 🎮 Features
+
+Features
 
 \- Immersive gameplay loop centered around light mechanics and exploration  
 
@@ -22,11 +22,11 @@ Developed using **C#** in Unity, this project combines educational content with 
 
 
 
----
 
 
 
-\## 🧩 Tech Stack
+
+Tech Stack
 
 \- \*\*Engine:\*\* Unity  
 
@@ -38,19 +38,19 @@ Developed using **C#** in Unity, this project combines educational content with 
 
 
 
----
 
 
 
 
 
-\## 📫 Contact
+
+Contact
 
 \*\*Onur Ayaz\*\*  
 
-📧 \[onuurayaz@gmail.com]
+\[onuurayaz@gmail.com]
 
-🔗 \[LinkedIn](https://www.linkedin.com/in/onur-ayaz-/)
+\[LinkedIn](https://www.linkedin.com/in/onur-ayaz-/)
 
 
 
